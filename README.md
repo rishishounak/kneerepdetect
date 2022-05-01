@@ -5,3 +5,7 @@ go to the directory where you have saved the video and poseapp3.py file using cm
 
 Then type
 >> python poseapp3.py
+
+The output that you get would be 
+
+Video link: https://drive.google.com/file/d/18mDpfFFnkqJgqUhcxoe-jhakiKvlkmgq/view?usp=sharing
